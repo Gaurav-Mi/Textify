@@ -1,3 +1,5 @@
+Textify is a versatile text utility app that provides multiple tools like uppercase/lowercase conversion, rephrasing with AI-generated suggestions, text copying, word count, and estimated reading time.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
